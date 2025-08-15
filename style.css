@@ -3,6 +3,7 @@ body{
     background:rgb(189 14 199);
     margin:0px;
     font-family: "Oswald", sans-serif;
+    margin-bottom: 100px;
 }
 
 header {
@@ -41,7 +42,8 @@ p{
 
 .categoria {
     padding-left:20px;
-    padding-right:20px;
+    padding-right:20px; 
+    margin-top: 50px ;
 }
 
 .categoria-videos img{
@@ -51,4 +53,10 @@ p{
 .categoria-videos img:hover {
 opacity: 1.0;
 border: 1px solid rgb(212, 0, 255);
+
 }
+
+.categoria h2 {
+    color: rgb(249, 246, 249) ;
+}
+
